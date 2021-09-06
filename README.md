@@ -38,8 +38,6 @@ Framework: Express.
 <br/>
 Client HTTP - Axios.
 <br/>
-ORM - MONGOOSE.
-<br/>
 Banco - MONGODB.
 <br/>
 
