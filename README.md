@@ -6,14 +6,11 @@
 
 # 🔖 Sobre
 Esse projeto foi desenvolvido com o objetivo de ensinar testar meus conhecimentos em NodeJs.
-<br/>
-challenge-linkapi
-Instruções gerais Teste - Backend  Leia atentamente as instruções abaixo para a realização do teste proposto. 
-<br/>
- 
-  OBJETIVO Deverá construir uma API RESTful usando a tecnologia NodeJS. 
-  <br/>
 
+
+challenge-linkapi
+Instruções gerais Teste - Backend  Leia atentamente as instruções abaixo para a realização do teste proposto.  
+  OBJETIVO Deverá construir uma API RESTful usando a tecnologia NodeJS. 
      REQUISITOS  
     ● Criar contas testes nas plataformas Pipedrive e Bling.  
     ● Criar uma integração entre as plataformas Pipedrive e Bling( A integração deve buscar as oportunidades com status igual a ganho no Pipedrive, depois inseri-las como pedido no Bling). 
